@@ -1,0 +1,10 @@
+<div class="container">
+  <h1>Twitter Clone</h1>
+  <form id="tweet-form">
+    <textarea id="tweet-input"></textarea>
+    <button type="submit">Tweet</button>
+  </form>
+  <div id="tweet-container">
+    <!-- Tweet Cards -->
+  </div>
+</div>
